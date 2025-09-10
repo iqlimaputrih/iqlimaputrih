@@ -5,9 +5,26 @@ I'm a Computer Science graduate currently focusing to improve my skills in Data 
 # 💻 Tech Stack
 
 ## Data Analytics
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| Python | R | Pandas | NumPy |
+## Data Analytics
+
+<table>
+  <tr>
+    <td valign="top">
+      <b>Skills:</b><br>
+      ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) Python<br>
+      ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) R<br>
+      ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) Pandas<br>
+      ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) NumPy
+    </td>
+    <td valign="top">
+      <b>Projects:</b><br>
+      <a href="https://github.com/username/project1">Project 1</a><br>
+      <a href="https://github.com/username/project2">Project 2</a><br>
+      <a href="https://github.com/username/project3">Project 3</a>
+    </td>
+  </tr>
+</table>
+
 
 ## Web Dev
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) |
