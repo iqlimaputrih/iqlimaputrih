@@ -5,9 +5,9 @@ I'm a Computer Science graduate currently focusing to improve my skills in Data 
 # 💻 Tech Stack
 
 ## Data Analytics
-| Python | R | Pandas |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![R](https://img.shields.io/badge/r-%23276DC3?style=flat&logo=r&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white) |
+| Python | Pandas | SQL | SQLite |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
 
 ## Web Development
 | HTML5 | CSS3 | JavaScript | Bootstrap |
