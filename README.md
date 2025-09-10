@@ -5,36 +5,25 @@ I'm a Computer Science graduate currently focusing to improve my skills in Data 
 # 💻 Tech Stack
 
 ## Data Analytics
-## Data Analytics
+| Python | R | Pandas |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![R](https://img.shields.io/badge/r-%23276DC3?style=flat&logo=r&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white) |
+
+## Web Development
+| HTML5 | CSS3 | JavaScript | Bootstrap |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA?style=flat&logo=bootstrap&logoColor=white) |
 
 <table>
   <tr>
-    <td valign="top">
-      <b>Skills:</b><br>
-      ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) Python<br>
-      ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) R<br>
-      ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) Pandas<br>
-      ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) NumPy
-    </td>
-    <td valign="top">
-      <b>Projects:</b><br>
-      <a href="https://github.com/username/project1">Project 1</a><br>
-      <a href="https://github.com/username/project2">Project 2</a><br>
-      <a href="https://github.com/username/project3">Project 3</a>
-    </td>
+    <th>Projects</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/iqlimaputrih/Pams_Plants">Pam's Plant</a></td>
+    <td>Bootstrap, HTML, CSS</td>
   </tr>
 </table>
-
-
-## Web Dev
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) |
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| HTML5 | CSS3 | JavaScript | Bootstrap |
-
-## Visualization
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
-|---------------------------------|
-| Matplotlib |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iqlimaputrih&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
