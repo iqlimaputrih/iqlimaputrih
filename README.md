@@ -15,10 +15,11 @@ I'm a Computer Science graduate currently focusing to improve my skills in Data 
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/iqlimaputrih/UMKM_JawaBarat">UMKM_JawaBaratt</a></td>
+    <td><a href="https://github.com/iqlimaputrih/UMKM_JawaBarat">UMKM_JawaBarat</a></td>
     <td>SQL, SQLite, Power BI</td>
   </tr>
 </table>
+
 ## Web Development
 | HTML5 | CSS3 | JavaScript | Bootstrap |
 |:---:|:---:|:---:|:---:|
