@@ -9,6 +9,16 @@ I'm a Computer Science graduate currently focusing to improve my skills in Data 
 |:---:|:---:|:---:|:---:|:---:|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/iqlimaputrih/UMKM_JawaBarat">UMKM_JawaBaratt</a></td>
+    <td>SQL, SQLite, Power BI</td>
+  </tr>
+</table>
 ## Web Development
 | HTML5 | CSS3 | JavaScript | Bootstrap |
 |:---:|:---:|:---:|:---:|
